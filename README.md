@@ -1,6 +1,6 @@
 # Módulo de Pedidos e Entregas
 
-**Autor:** Carla Cristina
+**Autor:** Kayke Alabarce Perez
 
 ## Objetivo
 
